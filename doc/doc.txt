@@ -1,0 +1,14 @@
+
+##########################################################
+########## Welcome to the documentation of Project 1######
+
+Project descriptions.
+Folder css: contains bootstrap css files
+Folder js: contains bootstrap js files
+Folder img: contains bootstrap sprite images files
+
+header.php: File to hold the split header part
+footer.php: File to hold the split footer part
+index.php: File to get input from the end user
+details.php: File to show the response after processing the url
+metaInfo.class.php: This file contains all the logic to get the response data
